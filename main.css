@@ -760,7 +760,7 @@ img{
         padding: var(--space-medium);
         text-align: center;
     }
-    #contact h1{
+    #contact h2{
         font-size: var(--font-lg);
     }
     #contact p{
@@ -768,5 +768,6 @@ img{
     }
 
 }
+
 
 
